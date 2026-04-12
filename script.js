@@ -31,7 +31,7 @@ let currentOperator = null;
 /*
   STEP 3: updateScreen()
   This function's only job: show currentValue on the screen.
-  Hint: use textContent on the screen element
+  Hint: use textContent on the screen element 
 */
    
 function updateScreen() {
